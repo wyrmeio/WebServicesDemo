@@ -10,31 +10,31 @@
 	<string>SleepingInTheLibrary</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>06B17395845E828303F27DC33B46C98360A84829</key>
-		<string>https://github.com/udacity/ios-networking.git</string>
+		<key>9A86B3D9FDA5F78FD73C487A4C21EE206AE09638</key>
+		<string>https://github.com/wyrmeio/WebServicesDemo.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>SleepingInTheLibrary/SleepingInTheLibrary.xcodeproj</string>
+	<string>SleepingInTheLibrary.xcodeproj</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>06B17395845E828303F27DC33B46C98360A84829</key>
-		<string>../../..</string>
+		<key>9A86B3D9FDA5F78FD73C487A4C21EE206AE09638</key>
+		<string>../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/udacity/ios-networking.git</string>
+	<string>https://github.com/wyrmeio/WebServicesDemo.git</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>111</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>06B17395845E828303F27DC33B46C98360A84829</string>
+	<string>9A86B3D9FDA5F78FD73C487A4C21EE206AE09638</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>06B17395845E828303F27DC33B46C98360A84829</string>
+			<string>9A86B3D9FDA5F78FD73C487A4C21EE206AE09638</string>
 			<key>IDESourceControlWCCName</key>
-			<string>ios-networking</string>
+			<string>SleepingInTheLibrary</string>
 		</dict>
 	</array>
 </dict>

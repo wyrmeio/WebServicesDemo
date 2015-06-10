@@ -2,8 +2,8 @@
 //  AppDelegate.swift
 //  SleepingInTheLibrary
 //
-//  Created by Jarrod Parkes on 1/26/15.
-//  Copyright (c) 2015 Udacity. All rights reserved.
+//  Created by Idris Jafer on 6/8/15.
+//  Copyright (c) 2015 Idris Jafer. All rights reserved.
 //
 
 import UIKit
